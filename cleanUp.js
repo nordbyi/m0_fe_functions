@@ -19,7 +19,7 @@ nameQuestion();
 
 // EX 2:
 function addThreeNums(first, second, third) {
-  var sum = first + second + third
+  var sum = first + second + third;
   console.log(sum);
 }
 
@@ -46,9 +46,9 @@ makeFreshPesto();
 function averageTwoNums(num1, num2)  {
   var sum = num1 + num2;
   var avg = sum / 2;
-  console.log(`The average is: ${avg}.`)
+  console.log(`The average is: ${avg}.`);
 }
 
-averageTwoNums(10, 20)
+averageTwoNums(10, 20);
 
 // changed name to be more specific. cleaned up syntax. Called function
